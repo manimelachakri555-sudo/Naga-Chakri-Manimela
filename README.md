@@ -1,4 +1,3 @@
-# Naga-Chakri-Manimela 
 # 💫 About Me:
 🔭I’m currently working on B-Tech CSE (2028) and building Full Stack MERN projects <br>    <br>👯 I’m looking to collaborate on open-source and web development projects.<br><br>🤝 I’m looking for help with backend development and deployment.<br><br>🌱 I’m currently learning Java, DSA, and MERN Stack.<br><br>💬 Ask me about Java, React, Node.js, Express, and MongoDB.<br><br>⚡ I love turning ideas into web applications
 
